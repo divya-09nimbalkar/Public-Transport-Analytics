@@ -53,7 +53,7 @@ Public_Transport_Analytics/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Public_Transport_Analytics.git
@@ -74,7 +74,7 @@ Public_Transport_Analytics/
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 ### 1. Prepare Data
 Place your raw ridership CSV in:
@@ -117,7 +117,7 @@ The dashboard will drop `passengers` automatically and show predictions.
 
 ---
 
-## 📓 Exploration Notebook
+##  Exploration Notebook
 Open:
 ```bash
 jupyter notebook notebooks/exploration.ipynb
@@ -130,7 +130,7 @@ This notebook demonstrates:
 
 ---
 
-## 🧪 Testing
+##  Testing
 Run unit tests:
 ```bash
 pytest tests/
