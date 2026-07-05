@@ -1,11 +1,11 @@
 
 ---
 
-# Public Transport Analytics 🚇
+# Public Transport Analytics 
 
 This data engineering and machine learning pipeline automates the ETL, preprocessing, and feature engineering of raw public transport ridership data, culminating in predictive modeling and an interactive Streamlit dashboard for data visualization.
 
-## 📌 Overview
+##  Overview
 This project is a **data engineering and machine learning pipeline** for analyzing public transport ridership. It includes:
 - ETL pipeline for raw ridership data
 - Preprocessing and feature engineering
@@ -14,7 +14,7 @@ This project is a **data engineering and machine learning pipeline** for analyzi
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 Public_Transport_Analytics/
 │
